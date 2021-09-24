@@ -2,7 +2,7 @@
 
 ReCity - Segnalazione e gestione di problematiche di ristrutturazione/restauro
 
-Scopo
+### Scopo
 
 Si vuole creare un sistema di gestione di problematiche (danneggiamenti, usura…) alle piccole e grandi opere della città.
 Il sito permette agli utenti di segnalare a questa società terza determinati problemi; la società si preoccuperà di visionare le richieste e mettere in piedi una squadra di esperti che si preoccuperà di recarsi sul luogo e ristrutturare l’opera segnalata dall’utente (il tutto ovviamente contrattando con le autorità competenti, cosa che non interessa direttamente l’utente, quindi questo procedimento non viene mostrato).
