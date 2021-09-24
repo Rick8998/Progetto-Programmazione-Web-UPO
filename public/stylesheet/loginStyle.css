@@ -1,0 +1,49 @@
+.notRegistered{
+    padding-left: 1em;
+    text-decoration: none;
+    color: #2e3440;
+}
+
+.submitBtn{
+    background-color: #2e3440;
+    border-color: #2e3440;
+    color: white;
+}
+
+.loginTitleClass{
+    color: white;
+    background-color: #2e3440;
+    border-radius: 4px;
+}
+
+.pleaseLogin{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+
+.submitText{
+    color: white;
+    text-decoration: none;
+}
+
+.submitText:hover{
+    color: #2e3440;
+    background-color: white;
+    border-color: #2e3440;
+}
+
+.generalDivloginRegister{
+    padding-left: 25%;
+    padding-left: 25%;
+}
+
+.list-group{
+    width: 50%; 
+    margin-left: 2em; 
+    margin-top: 2em;
+}
+
+.accessStyle{
+    width: 50%; margin-left: 2em;  margin-top: 2em;
+}

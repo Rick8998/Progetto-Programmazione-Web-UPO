@@ -1,0 +1,221 @@
+body, html{
+    height: 100%;
+}
+
+#navbarIcon{
+    color: white;
+    width:16; 
+    height:16 
+}
+
+#userIcon{
+    color: white;
+}
+
+#myNavbar{
+    width: 100%;
+}
+
+#generalUserSearch{
+    box-shadow: none;
+    background-color: white;
+    border-color: #2e3440;
+    color: #2e3440;
+}
+
+#generalUserSearch:hover{
+    background-color: #2e3440;
+    border-color: white;
+    color: white;
+}
+
+#loggedUserRequestsubmit{
+    border-color: white;
+    background-color: #2e3440;
+    color: #2e3440;
+}
+
+#innerDiv{
+    padding-top: 1em;
+    padding-left: 0em;
+    padding-right: 0em;
+    background-color: #2e3440;
+}
+
+.interventionSearch{
+    padding-bottom: 3em;
+}
+
+#userLoginButton:focus{
+    border-color: white;
+    color: white;
+    box-shadow: none;
+    background-color: #2e3440;
+}
+
+#adminLoginButton:focus{
+    border-color: white;
+    color: white;
+    box-shadow: none;
+    background-color: #2e3440;
+}
+
+#userRegister:focus{
+    border-color: white;
+    color: white;
+    box-shadow: none;
+    background-color: #2e3440;
+}
+
+#userLoginLink:hover{
+    color: white;
+}
+
+#adminLoginLink:hover{
+    color: white;
+}
+
+#registerLink:hover{
+    color: white;
+}
+
+.userBtn{
+    background-color: white;
+    border-color: #2e3440;
+    color: #2e3440;
+}
+
+.userBtn:hover{
+    background-color: #2e3440;
+    border-color: white;
+    color: white;
+}
+
+.userBtn:focus{
+    border-color: white;
+    box-shadow: none;
+    background-color: #2e3440;
+}
+
+.galleryCarousel{
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-bottom: 1em;
+}
+
+.innerSubmitRequest{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.generalDiv{
+    background-color: #2e3440;
+    color: lightgrey;
+    height: 100%;
+}
+
+.mainClass{
+    background-color: #2e3440;
+    width: 100%;
+}
+
+.sectionsTitle{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    color: #2e3440;
+}
+
+.richiesteAdmin{
+    padding-left: 1em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.aboutUsDescription{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.request{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    color: #2e3440;
+}
+
+.requestSubmit{
+    padding-bottom: 2em;
+}
+
+.interventionsForm{
+    padding-left: 1em;
+}
+
+.interventionSearchDescription{
+    color: lightgrey;
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+
+.aboutUsDescription{
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+.lavoriRecentidescription{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.btnSearchInterventions{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.inputVia{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.userRecentRequest{
+    border-right: 2em;
+}
+
+.labelRequest{
+    padding-right: 1em;
+}
+
+.richiestaPendente{
+    color: orange;
+}
+
+.richiestaRifiutata{
+    color: red;
+}
+
+.richiestaSoddisfatta{
+    color: green;
+}
+
+.displayRequest{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.indexError{
+    color: red;
+    padding-left: 1em;
+}
+
+.userCorrectInsert{
+    color: greenyellow;
+    padding-left: 1em;
+}
